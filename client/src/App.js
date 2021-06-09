@@ -7,9 +7,11 @@ import Wrapper from "./components/Wrapper";
 import NoMatch from "./pages/NoMatch";
 import Search from "./pages/Search";
 import Saved from "./pages/Saved";
+
 import "./App.css";
 
 class App extends Component {
+ 
   render() {
     return (
       <Router>
@@ -24,8 +26,8 @@ class App extends Component {
           </Wrapper>
         </div>
       </Router>
-    );
-  }
-}
+    )
+  };
+};
 
 export default App;
