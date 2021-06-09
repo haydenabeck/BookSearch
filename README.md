@@ -7,6 +7,8 @@ https://github.com/haydenabeck/BookSearch
 ## Contributors
 
 @haydenabeck
+My tutor Sammantha
+My TA's
 
 ## Description
 
@@ -22,7 +24,14 @@ This site acts as a quick and easy book catalouge. Search for books and save'em
 
 ## Screenshots
 
-<img src="" alt="book search">
+- Homepage
+  <img src="./assets/homepage.png" alt="homepage">
+
+- Search
+  <img src="./assets/search.png" alt="homepage">
+
+- Save
+  <img src="./assets/save.png" alt="homepage">
 
 ## Contact
 
